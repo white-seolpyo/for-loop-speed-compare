@@ -1,1 +1,1 @@
-# for-loop-speed-compare
+https://django.seolpyo.com/entry/55/
